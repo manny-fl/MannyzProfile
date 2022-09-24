@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manuel Flores</h1>
-<h3 align="center" padding-top="20px">I am a self taught frontend developer from Pomona CA. Lets Work together! :)</h3>
+<h3 align="center" padding-top="20px">I am a self taught frontend developer out of Pomona CA.</h3>
 
                 - ⚡ I’m currently learning **Python and Javascript at Mt. San Antonio College**
 
                 - ⚡ How to reach me **webdev1236@gmail.com**
 
-                - ⚡ Fun fact **aside from web development I also enjoy Martial Arts**
+                - ⚡ Fun fact : aside from web development I also enjoy Martial Arts 
 
-<h3 align="centet">Connect with me: webdev1236@gmail.com</h3>
+<h3 align="center">Lets Work Together! :) : webdev1236@gmail.com</h3>
 <p align="center">
 </p>
 
