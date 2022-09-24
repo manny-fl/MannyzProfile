@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Flores</h1>
 <h3 align="center" padding-top="20px">I am a self taught frontend developer out of Pomona CA.</h3>
 
-                - ⚡ I’m currently learning **Python and Javascript at Mt. San Antonio College**
-
-                - ⚡ How to reach me **webdev1236@gmail.com**
+                - ⚡ I’m currently learning : Python and Javascript at Mt. San Antonio College
 
                 - ⚡ Fun fact : aside from web development I also enjoy Martial Arts 
 
