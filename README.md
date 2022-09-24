@@ -7,7 +7,7 @@
 
                 - ⚡ Fun fact **aside from web development I also enjoy Martial Arts**
 
-<h3 align="centet">Connect with me:</h3>
+<h3 align="centet">Connect with me: webdev1236@gmail.com</h3>
 <p align="center">
 </p>
 
