@@ -3,7 +3,7 @@
 
                     - ⚡ I am currently learning : Javascript and python at Mt. San Antonio College
 
-                    - ⚡ Fun fact : aside from web development I also enjoy Martial Arts 
+                    - ⚡ Fun fact : Aside from web development I also enjoy Martial Arts 
 
 <h4 align="center">Lets Work Together! :)</h4>
 <h2 align="center">webdev1236@gmail.com</h2>
