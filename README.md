@@ -6,7 +6,7 @@
                     - ⚡ Fun fact : Aside from web development I also enjoy Martial Arts 
 
 <h4 align="center">Lets Work Together! :)</h4>
-<h2 align="center">webdev1236@gmail.com</h2>
+<h2 align="center"><a href="mailto:webdev1236@gmail.com"></a>webdev1236@gmail.com</h2>
 <p align="center">
 </p>
 
