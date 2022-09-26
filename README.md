@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Flores</h1>
 <h3 align="center" padding-top="20px">I am a self taught frontend developer out of Pomona CA.</h3>
-<p align="center"> <a href="["](https://manny-fl.github.io/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Github/Github-plain-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a align="center" href="["](https://manny-fl.github.io/)" target="_blank" class="w3-button w3-black">Link Button</a>
 
                     - ⚡ I am currently learning : Javascript and python at Mt. San Antonio College
 
