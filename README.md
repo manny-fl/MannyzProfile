@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Flores</h1>
 <h3 align="center" padding-top="20px">I am a self taught frontend developer out of Pomona CA.</h3>
-<a align="center" href="https://manny-fl.github.io/" target="_blank" padding:5px; background-color:"blue;">Portfolio</a>
+<p align="center"><a href="https://manny-fl.github.io/" target="_blank" padding:5px; background-color:"blue;">Portfolio</a><p>
 
                     - ⚡ I am currently learning : Javascript and python at Mt. San Antonio College
 
