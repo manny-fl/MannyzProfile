@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Flores</h1>
-<h3 align="center" padding-top="20px">Self taught frontend developer out of Pomona CA.</h3>
+<h3 align="center" padding-top="20px">Front end developer</h3>
 <p align="center"><a href="https://manny-fl.github.io/" target="_blank">Portfolio</a><p>
 
 
