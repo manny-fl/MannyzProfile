@@ -2,9 +2,6 @@
 <h3 align="center" padding-top="20px">Self taught frontend developer out of Pomona CA.</h3>
 <p align="center"><a href="https://manny-fl.github.io/" target="_blank">Portfolio</a><p>
 
-                    - ⚡  Currently learning : Javascript and python at Mt. San Antonio College
-
-                    - ⚡ Fun fact : Aside from web development I also enjoy Martial Arts 
 
 <h4 align="center">Lets Work Together! :)</h4>
 <h2 align="center"><a href="mailto:webdev1236@gmail.com"></a>webdev1236@gmail.com</h2>
