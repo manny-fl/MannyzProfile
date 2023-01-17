@@ -3,7 +3,7 @@
 <p align="center"><a href="https://manny-fl.github.io/github.io/" target="_blank">Demo Project</a><p>
 
 
-<h4 align="center">Open for Work or Collaboration.</h4>
+<p align="center">Open for Work or Collaboration.</p>
 <h2 align="center"><a href="mailto:mannydev25@gmail.com"></a>mannydev25@gmail.com</h2>
 <p align="center">
 </p>
