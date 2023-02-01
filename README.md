@@ -12,9 +12,8 @@
 
 <p align="center">Open for Work and Collaboration.</p>
 <div class="button-group minor-group" align="center">
-    <a href="https://hashnode.com/@mannydev25" class="button danger">hashnode</a>
+    <a href="https://hashnode.com/@mannydev25" class="button">hashnode</a>
     <a href="https://www.linkedin.com/in/mannydev25/" class="button">Linkedin</a>
 </div>
-<a align="center" font-size="24px" href="mailto:mannydev25@gmail.com">mannydev25@gmail.com </a>
 
 
