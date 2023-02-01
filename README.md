@@ -11,7 +11,7 @@
 
 
 <p align="center">Open for Work and Collaboration.</p>
-<button background-color="darkblue"color:"white" border-radius="10%"><a target="_blank" href="https://hashnode.com/@mannydev25" > Hashnode Profile </a></button>
+<a class="button primary" target="_blank" href="https://hashnode.com/@mannydev25" > Hashnode Profile </a>
 <h2 align="center"><a href="mailto:mannydev25@gmail.com"></a>mannydev25@gmail.com</h2>
 <p align="center">
 </p>
