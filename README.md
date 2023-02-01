@@ -12,10 +12,8 @@
 
 <p align="center">Open for Work and Collaboration.</p>
 <div class="button-group minor-group">
-    <a style=background-color:"red" href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
+    <a href="https://hashnode.com/@mannydev25" class="button primary">hashnode</a>
+    <a href="#" class="button">Linkedin</a>
 </div><h2 align="center"><a href="mailto:mannydev25@gmail.com"></a>mannydev25@gmail.com</h2>
 <p align="center">
 </p>
