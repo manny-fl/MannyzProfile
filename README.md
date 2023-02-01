@@ -14,7 +14,7 @@
 <div class="button-group minor-group" align="center">
     <a href="https://hashnode.com/@mannydev25" class="button danger">hashnode</a>
     <a href="https://www.linkedin.com/in/mannydev25/" class="button">Linkedin</a>
-</div><h2 align="center"><a href="mailto:mannydev25@gmail.com"></a>mannydev25@gmail.com</h2>
-<p align="center">
-</p>
+</div>
+<a align="center" href="mailto:mannydev25@gmail.com"> mannydev25@gmail.com </a>
+
 
