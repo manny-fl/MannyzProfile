@@ -1,6 +1,6 @@
 <h1 align="left">Hey there!  👋</h1>
 <h3 align="left" padding-top="20px">About Me</h3>
-<p align="left">I,m Manny, a website developer currently attending Mt. San Antonio College for Website Development.</p>
+<p align="left">I am Manny, a website developer currently attending Mt. San Antonio College for Website Development.</p>
 <p align="left">I enjoy creating and putting things together. Web development seems to be just that! Recently I began looking for work as a freelancer and 
     couldnt be more exited for what the future holds pursuing a career in website development.
 </p>
